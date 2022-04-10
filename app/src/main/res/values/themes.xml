@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.VideoCallApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/title_bar_color</item>
+        <item name="colorPrimaryVariant">@color/title_bar_color</item>
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+
+    <style name="VideoCallApp.NoActionBar" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/title_bar_color</item>
+        <item name="colorPrimaryVariant">@color/title_bar_color</item>
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+</resources>
